@@ -6,13 +6,13 @@
 
 #### 点击可以切换DNS
 
-![](/Users/fuhaku/vscode/hammerspoon-menubar-dns-change/image/Kapture 2021-02-08 at 09.14.29.gif)
+![](./image/Kapture 2021-02-08 at 09.14.29.gif)
 
 #### 设定快捷键切换DNS
 
-![](/Users/fuhaku/vscode/hammerspoon-menubar-dns-change/image/Kapture 2021-02-08 at 09.13.22.gif)
+![](./image/Kapture 2021-02-08 at 09.13.22.gif)
 
 #### HammerSpoon脚本更新自动生效
 
-![](/Users/fuhaku/vscode/hammerspoon-menubar-dns-change/image/Kapture 2021-02-08 at 09.22.18.gif)
+![](./image/Kapture 2021-02-08 at 09.22.18.gif)
 
