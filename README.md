@@ -21,6 +21,6 @@
 
 ![autoreload](./image/autoreload.gif)
 
-#### 备注：获取DNS配置SSID方式：终端输入命令 `scselect`
-#### remark: how to get dns config ssid? type `scselect` in the terminal
+#### 备注：获取DNS配置UID方式：终端输入命令 `scselect`
+#### remark: How to get dns config uid? type `scselect` in the terminal
 
